@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadhanmore26&label=Profile%20views&color=0e75b6&style=flat" alt="samadhanmore26" /> </p>
 
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 I’m currently learning **app development**
 
 - 📫 How to reach me **samadhanmore2914@gmail.com**
 
